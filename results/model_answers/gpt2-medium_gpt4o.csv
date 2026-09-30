@@ -1,0 +1,216 @@
+category,question,model_answer,reference_answer,manual_grade
+history,İstanbul'un fethi hangi yılda gerçekleşmiştir?,"İstanbul'un fethi, 1099 yılında gerçekleşmiştir. İstanbul'un fethi, Bizans İmparatorluğu'nun yıkılışına kadar sürmüş, Osmanlı İmparatorluğu'nun kuruluşu ve Bizans'ın çöküşü ile tamamlanmıştır.
+
+İstanbul'un fethi, Bizans",1453,incorrect
+history,Atatürk hangi yılda doğmuştur?,"Atatürk, 1881 yılında Selanik'te doğmuştur.
+
+Atatürk, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır.
+
+Atatürk, 1919'da Samsun'a çıkarak Kurtuluş Savaşı'nı başlatmıştır.
+
+Atatürk, Türkiye Cumhuriyeti'nin",1881,correct
+history,Magna Carta hangi yıl imzalanmıştır?,"Magna Carta, 1516 yılında İngiltere Kralı II. Charles tarafından imzalanmıştır. Bu belge, Avrupa'da özgürlük ve demokrasi yolunda atılmış önemli bir adımdır.
+
+Magna Carta, hukukun üstünlüğü, eşitlik ve adalet ilkeleri üzerine kurulu bir reform",1215,incorrect
+history,Fransız Devrimi kaç yılında olmuştur?,"Fransız Devrimi, 1789 Fransız Devrimi olarak bilinir ve 1789 yılında yapılmıştır. Bu devrim, Fransız Devrimi olarak bilinir çünkü Fransız Devrimi, Fransızların ulusal bağımsızlıklarını kazanmalarını ve modern bir ulus olarak var olmalarını sağlayan bir dizi siyasi ve sosyal reformun bir parçasıdır",1789,correct
+history,Osmanlı Devleti'nin kurucusu kimdir?,"Osman Gazi'dir.
+
+Osman Gazi, Türk tarihinin en önemli ve en önemli liderlerinden biridir.
+
+Osmanlı Devleti'nin kurucusu, Osmanlı İmparatorluğu'nun kurucusudur.
+
+Ayrıca, Osmanlı Devleti, Türk-İslam dünyasının en büyük imparatorluk",Osman Gazi,correct
+history,Kurtuluş Savaşı hangi yıllar arasında olmuştur?,"Kurtuluş Savaşı, Mustafa Kemal Atatürk'ün önderliğinde Türkiye Cumhuriyeti'nin kurulması ve ulusal egemenliğin sağlanması amacıyla 19 Mayıs 1919'da başlayan ve 30 Ekim 1918'de sona eren bir savaştır.
+
+Kurtuluş Savaşı'nın hangi yıllar arasında gerçekleştiği kesin olarak",1919-1923,partially correct
+history,Berlin Duvarı hangi yıl yıkılmıştır?,"Berlin Duvarı, 19 Aralık 1961'de yıkılmıştır. Bu olay, Avrupa Birliği'nin temellerini atan önemli bir olay olarak kabul edilir.
+
+Berlin Duvarı'nın yıkıldığı tarih, Avrupa'nın ekonomik ve siyasi anlamda ne kadar büyük bir",1989,incorrect
+history,Sümerler hangi bölgede kurulmuştur?,"Sümerlerin merkezi, Sümerce konuşan bölge olan **Güneybatı Mezopotamya'dır**.
+
+Sümerler, Mezopotamya'nın güneydoğu kesiminde, Sümerce konuşan bir halktır. Bu bölgede M.Ö. 2000'li yıllarda, Asurlu",Mezopotamya,correct
+science,DNA nedir?,"DNA, genetik bilgiyi taşıyan bir hücrenin çekirdeğinde bulunan, kromozom adı verilen kromozomlar dizisidir. DNA, genellikle iki ana zincirden oluşur:
+
+Tersiyer (Rastgele) DNA: Genetik bilgiyi taşıyan bu DNA, her bir hücrenin",Genetik bilgiyi taşıyan moleküldür,correct
+science,Evrende en bol bulunan element nedir?,"En bol bulunan element **demir**dir.
+
+**Demir**, doğada **fosfat** (fosfor) ve **potasyum** gibi elementler ile bol miktarda bulunur.
+
+Bu elementler, **besin zincirlerinin",Hidrojen,incorrect
+science,Suyun kaynama noktası kaç derecedir?,"Su kaynama noktası **60°C**'dir.
+
+Su, kaynama noktasının altında sıcaklıklara maruz kalırsa, **kaynama noktası** düşer. Örneğin:
+
+- **60°C**'nin altındaki sıcaklıklarda su,",100°C,incorrect
+science,Bir atomun çekirdeğinde ne bulunur?,"Atomun çekirdeği, elektronlar, protonlar ve nötronlar gibi elektronlardan oluşur.
+
+Atomun çekirdeği, çekirdekteki protonları ve nötronları birleştirerek enerji üretir. Çekirdek, çekirdekte bulunan protonları ve nötronları bir",Proton ve nötron,correct
+science,Hangi organ oksijeni vücuda taşır?,"**Solunum sistemi**.
+
+---
+
+### 🧠 **1. Kalp**  
+- **Solunum sistemi** içinde **kalp** bulunur.
+
+---
+
+### 🧠 **2. Akciğer",Akciğer,correct
+science,Işığın hızı saniyede kaç kilometredir?,"Işık saniyede yaklaşık 12.000 kilometre hızla hareket eder.
+
+Işık hızını bulmak için ""ışık hızı"" formülünü kullanabiliriz:
+
+Işığın hızı = (Kütle/Hacim) / Işık şiddeti
+
+Yani ışık, saniyede yaklaşık 10","Yaklaşık 300,000 km/s",incorrect
+science,Bir yılı yaklaşık kaç gün olarak kabul ederiz?,"Bir yılı yaklaşık **30 gün** olarak kabul ederiz.
+
+Kısa cevap: **1 yıl** = 30 gün  
+Yani, bir yıl **yaklaşık 1.5 gün** eder.
+
+Net cevap: **30 gün**  
+Yani",365 gün,incorrect
+science,Einstein'ın ünlü formülü nedir?,"Einstein'ın ünlü formülü (Einstein'ın ünlü formülü) genel görelilik teorisidir.
+
+Einstein'ın ünlü formülü, Einstein'ın kütle çekim teorisi (kuantum mekaniği) ile ilgilidir. Bu teori, Einstein",E=mc^2,correct
+geography,Türkiye'nin en uzun nehri nedir?,"Türkiye'nin en uzun nehri olan Fırat Nehri, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alır. Fırat, Türkiye'nin en uzun nehri olmakla birlikte, Türkiye'nin en büyük nehirlerinden biridir. Fırat, Türkiye'nin en büyük nehri olmakla",Fırat,correct
+geography,Afrika kıtasının en büyük ülkesi hangisidir?,"Afrika kıtasının en büyük ülkesi Etiyopya’dır. Etiyopya, Afrika’nın en büyük ülkeleri arasında yer alır ve dünya genelinde yaklaşık 2,5 milyar nüfusa sahiptir. Etiyopya, Afrika kıtasında en büyük ikinci ülkedir ve dünya genelinde yaklaşık 1,5 milyar nüfusa",Cezayir,incorrect
+geography,Dünya'nın en yüksek dağı nedir?,"Dünyanın en yüksek dağı, Alpler'deki Tierra Nevada Dağları'dır. Bu dağ, yaklaşık 3.447 metre (9.852 ft) yüksekliğe sahiptir. Tierra Nevada Dağları, Rusya'nın en",Everest,incorrect
+geography,Amazon Nehri hangi kıtadadır?,"Amazon Nehri, Orta Amerika'nın orta bölgesinde bulunan, Amazon Nehri'nin en büyük kolu olan Ushuaia'nın bir parçasıdır. Amazon Nehri, kuzeyden güneye doğru akan ve genellikle kuzeydoğudaki Amazon Nehri'nin batı kolundan çıkar.",Güney Amerika,incorrect
+geography,İstanbul iki kıta arasında köprü görevi görür. Bu kıtalar hangileridir?,"İstanbul, iki kıta arasında köprü işlevi görür. Boğaziçi, Marmara ve Karadeniz, bu köprülerin ana hatlarını oluşturur.
+
+Bu iki kıtayı birbirine bağlayan en önemli köprü, Fatih Sultan Mehmet tarafından yaptırılan Boğaziçi Köprüsü’dür. Bu köprü, İstanbul’un",Asya ve Avrupa,incorrect
+geography,Dünya'nın en büyük çölü hangisidir?,"Dünya'nın en büyük çölü, Antarktika'daki Antarktika Çölü'dür. Bu bölge, Dünya'nın en derin ve en yüksek çölüdür ve yaklaşık 1.6 milyar metrekarelik bir alanı kaplamaktadır.
+
+Bu",Antarktika,correct
+geography,Türkiye'nin başkenti neresidir?,"Türkiye'nin başkenti Ankara'dır.
+Ankara, Türkiye'nin başkenti ve Türkiye'nin en büyük şehridir. Ankara, Türkiye'nin en büyük ve en önemli şehirlerinden biridir ve birçok tarihi ve kültürel yapıya ev sahipliği yapar.
+
+Ankara,",Ankara,correct
+geography,Kutup bölgelerinde yaşayan ayı türü hangisidir?,"Kutup bölgelerinde yaşayan ayı türü, Pseudocampa cinsinden ayılardır. Bu ayılar, Kuzey Kutbu’nun ılıman bölgelerinde yaşarlar ve genellikle daha sıcak bölgelerde yaşarlar. Kutup ayıları, soğuk iklimlerde hayatta kalabilen, genellikle kutup bölgelerinde yaşayan",Kutup ayısı,correct
+general knowledge,Nobel Barış Ödülü hangi şehirde verilir?,"**Nobel Barış Ödülü**, **İsveç'in Stockholm kentinde** verilir. Bu ödül, İsveç'in bağımsızlığının ve egemenliğinin sembolüdür.
+
+**Neden Stockholm'de verilir?**
+
+---
+
+### ✅ **",Oslo,incorrect
+general knowledge,FIFA Dünya Kupası kaç yılda bir düzenlenir?,"FIFA Dünya Kupası'nın tarihi, her yılın Kasım ayında oynanır.
+
+FIFA Dünya Kupası'nın tarihi, şu şekilde belirlenir:
+
+FIFA Dünya Kupası'nın tarihi, genellikle her yıl Kasım ayında düzenlenir. FIFA, her yıl daha fazla",4,incorrect
+general knowledge,Mona Lisa tablosunun ressamı kimdir?,"Leonardo da Vinci.
+
+**Mona Lisa'nın ressamı Leonardo da Vinci**, Rönesans'ın en büyük ressamlarından biridir ve Mona Lisa tablosunun da ressamıdır.
+
+### 🔥 Özet:
+- M",Leonardo da Vinci,correct
+general knowledge,En çok konuşulan dil hangisidir?,"**Farsça**.
+
+**Farsça**, Orta Asya'da konuşulan bir dildir. Türkiye, İran, Afganistan ve Pakistan gibi ülkelerde yaygın olarak kullanılır.
+
+En çok konuşulan dil Farsça'dır.
+
+Bu dili",İngilizce,incorrect
+general knowledge,Japonya'nın başkenti neresidir?,"Tokyo, Japonya'nın başkentidir.
+
+Japonya'nın başkenti Tokyo'dur.
+
+Eğer Japonya'nın başkenti başka bir yer olsaydı, bu sefer de Japonya'nın en büyük şehri olan Osaka'yı tercih ederdim.",Tokyo,correct
+general knowledge,Hangi ülke en fazla yüzölçümüne sahiptir?,"**En fazla yüzölçümü**, **İngiltere** ve **Kanada** arasında paylaşılır.
+
+Kanada, İngiltere'nin toplam yüzölçümüne yakın bir yüzölçümüne sahiptir.
+
+Kanada'nın en büyük yüzölçümü, **2.8",Rusya,incorrect
+general knowledge,Olimpiyatların sembolünde kaç halka vardır?,"Olimpiyatların sembolü **1. Halka**dır. Bu, her iki milletin ortak sembolüdür ve her zaman saygı duyulmuştur.
+
+---
+
+### ✅ **1. Olimpiyatlar**
+
+- **Uluslararası Olimpiyat Komitesi** (In",5,incorrect
+general knowledge,Venedik hangi ülkeye aittir?,"Venedik, İtalya'ya aittir.
+
+Venedik, İtalya'nın en büyük şehri ve başkentidir.
+
+Venedik, Avrupa'nın en büyük ticaret, sanat ve kültür merkezlerinden biridir.
+
+Venedik, Avrupa'nın en eski",İtalya,correct
+health,İnsan vücudunda kaç kemik vardır?,"İnsan vücudunda yaklaşık **kemik sayısı** 4 ile 6 milyon arasındadır.
+
+---
+
+### ✅ **1. Göğüs Kemiği**  
+- Göğüs kafesi ve kaburgalar, vücudun en büyük kemikleridir.  
+-",206,incorrect
+health,Normal insan kalp atış hızı dakikada kaçtır?,"120 atış/dakika
+
+Bu durumda, kalp atış hızı 120 atış/dakika'dır.",60-100,incorrect
+health,İnsan vücudunda en büyük organ nedir?,"Kalp.
+
+İnsan vücudunda en büyük organ, beyindir. Beyni oluşturan organlar şunlardır:
+
+Beyin (Portage)
+
+Beynin iç tabakasını oluşturur.
+
+Algılayıcı sistem (Ampiyem)",Deri,incorrect
+health,Diyabet hangi organın bozulması sonucu oluşur?,"Diyabet, pankreasta insülin salgılanmaması veya üretilen insülin miktarının yetersiz olması sonucu oluşur.
+
+Pankreas: İnsülin hormonunu üreten organdır.
+
+Kan şekeri seviyesi: Kandaki şeker seviyesi ne kadar düşükse, pankreas da o kadar",Pankreas,correct
+health,Kırmızı kan hücrelerinin diğer adı nedir?,"Kırmızı kan hücreleri, vücudun ana kan bileşenidir. Bu hücreler, alyuvarlar ve akyuvarlar gibi kan hücrelerinin üretimini kontrol eder.
+
+Kırmızı kan hücrelerinin temel işlevi, oksijen ve besin maddelerini hücrelere taşımaktır. Bu, hayatta kalmak",Eritrosit,incorrect
+literature,Cahit Sıtkı Tarancı hangi eseriyle ünlüdür?,"Cahit Sıtkı Tarancı'nın en ünlü eseri ""Ankara""dır.
+
+""Ankara"", Tarancı'nın en çok tanınan ve okunan şiirlerinden biridir.
+
+Tarancı, bu eserinde, yalnızlık, yoksulluk, özlem",Otuz Beş Yaş,incorrect
+literature,Suç ve Ceza romanı kimin eseridir?,"Suç ve Ceza romanı, yazarın (A. Bülent Akgerman) eseri olup, yazarın kendi yazdığı ve kendi bakış açısıyla yazdığı bir eserdir.
+
+Romanda, suçun tanımı ve nedenleri, suçun nedenleri, suçun cezası, suçlunun cezalandırılması,",Dostoyevski,incorrect
+literature,William Shakespeare'in en ünlü trajedilerinden biri nedir?,"""Platon"" (MÖ 425-337), ""Haklısın"" (MÖ 404-404) ve ""İvan İlyiç"" (MÖ 406-406) gibi traj",Hamlet,incorrect
+literature,Küçük Prens kitabının yazarı kimdir?,"Küçük Prens kitabının yazarı Robert Louis Stevenson'dur.
+
+Kitabın yazarı, küçük prens'in yazarıdır ve genellikle çocuk masalları ve fantezi dünyasında önemli bir figürdür.
+
+Robert Louis Stevenson, 1857 yılında Almanya'da",Antoine de Saint-Exupéry,incorrect
+literature,İnce Memed romanını kim yazmıştır?,"İnce Memed romanını Memedê Xanî yazmıştır.
+
+İnce Memed romanı, Memedê Xanî'nin 1831-1832 yılları arasında yazdığı ve Xanî'nin bir halk kahramanının hayatını konu alan bir",Yaşar Kemal,incorrect
+math,7 ile 8 çarpımı kaç eder?,"20** eder.
+
+Yani:
+
+\[
+\text{7}{8} = 20
+\]
+
+**",56,incorrect
+math,Pi sayısının yaklaşık değeri nedir?,"Pi sayısı, yaklaşık olarak 1,618 olarak kabul edilir. Bu sayı, 9, 914, 91416, 91418, 91419, 91420, 91421, 91422, 91423, 9",3.14,incorrect
+math,Bir üçgenin iç açılarının toplamı kaç derecedir?,"Bir üçgenin iç açılarının toplamı **1,",180,incorrect
+math,2'nin küpü kaçtır?,"2 × 2 = 2.
+
+2 × 2 = 3.
+
+Yani: 3 × 2 = 6.
+
+Sonuç: 6 × 2 = 3.
+
+İstersen bu soruyu daha da uzatabilirim. Ama istersen bu bilgiyi daha",8,incorrect
+math,1000 sayısının yarısı kaçtır?,"1000 sayısının yarısı **2**dir.**
+
+Bu durumda, 1000 sayısının yarısı **2**dir.",500,incorrect
+technology,İlk programlanabilir bilgisayarın adı nedir?,"**A. B. D.**
+
+Bu isim, programlama dillerinde ""programlama"" terimiyle ilişkilidir.
+
+İlk programlanabilir bilgisayar, **Stanford Üniversitesi** tarafından **1884 yılında** icat edilmiştir. Bu cihaz, programlama",ENIAC,incorrect
+technology,İnternetin temel protokolü nedir?,"İnternet protokolü, TCP/IP’dir. TCP/IP, internet iletişiminde önemli bir rol oynar. TCP/IP, internet veri paketlerini iletir ve bu paketler güvenli bir şekilde iletilir.
+
+TCP/IP, bilgisayar",TCP/IP,correct
+technology,OpenAI tarafından geliştirilen ünlü dil modeli nedir?,"OpenAI tarafından geliştirilen ünlü dil modeli, yapay zeka destekli, dillerin otomatik olarak öğrenmesini sağlayan bir modeldir. Bu model, dillerin otomatik olarak öğrenilmesini sağlayarak, dilin ne anlama geldiğini anlamalarına yardımcı olur.
+
+Örneğin, ""p",GPT,partially correct (not the expected answer)

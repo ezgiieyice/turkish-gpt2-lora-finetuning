@@ -1,0 +1,315 @@
+category,question,model_answer,reference_answer,manual_grade
+history,İstanbul'un fethi hangi yılda gerçekleşmiştir?,"İstanbul'un Fethi, Osmanlı'nın 539. İstanbul kuşatmasıyla gerçekleşmiştir.
+
+Neden?
+
+Fetih, Bizans İmparatorluğu'nun çöküşüne ve Batı'nın baskısına karşı bir direniş hareketidir.
+
+İstanbul'un Fethi,",1453,incorrect
+history,Atatürk hangi yılda doğmuştur?,"Atatürk, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır.
+
+Atatürk, 19 Mayıs 1919'da Samsun'da Milli Mücadele'yi başlatan liderdir.
+
+Atatürk'ün doğum tarihi, Atatürk'ün doğumundan tam olarak 2 yıl önce",1881,incorrect
+history,Magna Carta hangi yıl imzalanmıştır?,"Magna Carta, 1856 yılında İngiltere'de imzalanmıştır.
+
+Magna Carta, İngiltere Kralı II. Charles'ın, Avrupa'da özgürlük ve eşitlik mücadelesini savunan evrensel bir belge olarak kabul edilir.
+
+Neden?",1215,incorrect
+history,Fransız Devrimi kaç yılında olmuştur?,"Fransız Devrimi (1789): 1789'da Fransız Devrimi gerçekleşti.
+
+Tarih:
+1789: 1789'da Fransız Devrimi gerçekleşti.
+
+Neden:
+
+Fransız Devrimi, Fransız Devrimi olarak bilinir ve Fransız Devrimi, Fransız Devrimi",1789,correct
+history,Osmanlı Devleti'nin kurucusu kimdir?,"Osmanlı Devleti'nin kurucusu Osman Gazi'dir.
+
+Kuruluş:
+
+1. Osman Bey (1362-1389)
+2. Orhan Bey (1362-1389)
+3. Murat (1362-1389",Osman Gazi,correct
+history,Kurtuluş Savaşı hangi yıllar arasında olmuştur?,"Kurtuluş Savaşı, Birinci Dünya Savaşı'nın ardından, Türkiye'nin işgal altında olduğu ve bağımsızlığını kazanmak için mücadele ettiği yıllarda başlamıştır.
+
+Kurtuluş Savaşı'nın başladığı tarih, 1919-1922 yılları arasında, Mustafa Kemal Paşa'nın Samsun'a çıkış",1919-1923,correct
+history,Berlin Duvarı hangi yıl yıkılmıştır?,"Berlin Duvarı, II. Dünya Savaşı sırasında (1939-1945) yıkıldı.
+
+Kısa ve net:
+
+Berlin Duvarı, Almanya'nın işgaline karşı direnişin sembolüdür.
+
+Tarihte bu duvar, Sovyetler Birliği",1989,incorrect
+history,Sümerler hangi bölgede kurulmuştur?,"Sümerler, Orta Asya'da (Afganistan, Doğu Türkistan, Güney Türkistan) yaşayan eski bir halktır.
+
+Tarihi:
+
+MÖ 5. yüzyılda Anadolu'ya yerleşen Sümerler, M.Ö. 3000-2000 yıllarında",Mezopotamya,incorrect
+science,DNA nedir?,"DNA, hücre zarında yer alan ve hücrenin temel yapısını oluşturan temel yapı taşıdır.
+
+1. **DNA'nın Yapısı:**
+   - **Adenin (A)**:
+   - **Guanin",Genetik bilgiyi taşıyan moleküldür,correct
+science,Evrende en bol bulunan element nedir?,"En bol bulunan element, demirdir.
+
+Neden?
+
+Demir, evrende en bol bulunan elementtir.
+
+Yüksek miktarda demir içerir ve atom numarası 78'dir.
+
+Ayrıca, demir oksit (FeO) de evrende bol miktarda",Hidrojen,incorrect
+science,Suyun kaynama noktası kaç derecedir?,"Suyun kaynama noktası **0°C**'dir.
+
+Örnek: Su kaynadığında **0°C**'de kaynar.
+
+(Not: Su, kaynama noktası arttıkça basıncı artar. Bu, basınç farkının kaynama noktasına",100°C,incorrect
+science,Bir atomun çekirdeğinde ne bulunur?,"Atomun çekirdeğinde 
+sodyum (Na),
+
+potasyum (K),
+
+kalsiyum (Ca),
+
+kalsiyum (K) ve
+
+magnezyum (Mg) gibi elementler",Proton ve nötron,incorrect
+science,Hangi organ oksijeni vücuda taşır?,"Oksijen, solunum sırasında vücudumuzda bulunan organlara taşınır.
+
+Not:
+
+Oksijen taşınması, solunum sürecinin önemli bir parçasıdır.
+
+Not:
+
+Oksijen taşınması, solunumun temel bir parçasıdır.
+
+�",Akciğer,incorrect
+science,Işığın hızı saniyede kaç kilometredir?,"Işık hızı saniyede **5 km** (metre).
+
+Örnek:
+
+Işık hızı = **5 × 10 = 100 km** (metre).
+
+Örnek:
+
+Işık hızı = **100 km** (metre).","Yaklaşık 300,000 km/s",incorrect
+science,Bir yılı yaklaşık kaç gün olarak kabul ederiz?,"1 yıl = 3 gün (3 + 2 = 3).
+
+Kısa cevap:
+
+1 yıl = 6 gün (6 + 1 = 6).
+
+Özet:
+
+1 yıl = 60 gün (60 + 6 = 60",365 gün,incorrect
+science,Einstein'ın ünlü formülü nedir?,"Einstein'ın ünlü formülü (""Einstein'ın Görelilik Kuramı""), evrensel bir çekim yasasına dayanır ve bu yasa, maddenin kütlesinin karekökünü (C) yani kütle çekimini (E) belirler",E=mc^2,correct
+geography,Türkiye'nin en uzun nehri nedir?,"Türkiye'nin en uzun nehri, **Uludağ** (1469 km), **Kestel** (7.5 km) ve **İnegöl** (6.7 km) gibi tarihi ve turistik öneme sahip olan **Uludağ**'dır",Fırat,incorrect
+geography,Afrika kıtasının en büyük ülkesi hangisidir?,"**Afrika Kıtası'nın En Büyük Ülkesi:**
+
+### **1. Fildişi Sahili**  
+- **Başkenti:** **Fildişi Sahili** (Afrika kıtasının en büyük ülkesi).  
+- **Nüfus",Cezayir,
+geography,Dünya'nın en yüksek dağı nedir?,"Dünya'nın en yüksek dağı, Mariana Çukuru'dur. Bu, Mariana Çukuru'nun tabanında yer alan ve Dünya'nın en yüksek noktası olarak kabul edilen yerdir.
+
+Mina Dağı'nın yüksekliği, Dünya",Everest,incorrect
+geography,Amazon Nehri hangi kıtadadır?,"Amazon Nehri, Hindistan'",Güney Amerika,incorrect
+geography,İstanbul iki kıta arasında köprü görevi görür. Bu kıtalar hangileridir?,"İstanbul iki kıta arasında köprüdür. İstanbul Boğazı, Marmara Denizi ve Ege Denizi'ne kıyısı olan bir boğazdır.
+
+Bu kıta, Avrupa, Asya ve Afrika kıtalarının kesiştiği noktada yer alır.
+
+Not: İstanbul Boğazı, Türkiye ve",Asya ve Avrupa,incorrect
+geography,Dünya'nın en büyük çölü hangisidir?,"Dünya'nın en büyük çölü, Kanada'daki Glenn Gage Çölü'dür. İşte detaylı açıklama:
+
+1. Glenn Gage Çölü (Kanada)
+Neden Önemli?
+
+Nüfus:
+
+Kanada",Antarktika,incorrect
+geography,Türkiye'nin başkenti neresidir?,"İstanbul (Türkiye'nin başkenti).
+
+İstanbul, Türkiye'nin en kalabalık şehri.
+
+İstanbul'un nüfusu, yaklaşık 1.4 milyon.
+
+İstanbul'un ilçeleri ve nüfusu:
+
+Anadolu Yakası: Üsküdar, Kadıköy, Maltepe",Ankara,incorrect
+geography,Kutup bölgelerinde yaşayan ayı türü hangisidir?,"Kutup bölgelerinde yaşayan ayı türü **Sibirya ayılarıdır**. Bu tür, kutup ayıları ile benzer bir görünüme sahiptir. İşte detaylı açıklama:
+
+### 1. **Sibirya Ayıları**
+- **Sibirya Ayıları",Kutup ayısı,correct
+general knowledge,Nobel Barış Ödülü hangi şehirde verilir?,"Nobel Barış Ödülü, **Washington DC** (ABD) şehrinde verilir.
+
+**Not:** Bu ödül, **ABD'nin ve dünyanın en prestijli barış ödülüdür**.
+
+(Not: Bu ödül, **Amerikan Dış",Oslo,incorrect
+general knowledge,FIFA Dünya Kupası kaç yılda bir düzenlenir?,"FIFA Dünya Kupası (Dünya Kupası), her yıl düzenli olarak düzenlenir. 🏀
+
+Kısa ve net bir cevap:
+
+FIFA Dünya Kupası, her yıl düzenli olarak düzenlenir. 🏀
+
+Neden?
+
+Futbol, uluslararası bir",4,incorrect
+general knowledge,Mona Lisa tablosunun ressamı kimdir?,"Mona Lisa tablosu, Leonardo da Vinci'nin (1452-1519) eseridir.
+
+Neden?
+
+Mona Lisa tablosu, Leonardo da Vinci'nin en ünlü eseridir ve ""başyapıt"" olarak kabul edilir",Leonardo da Vinci,correct
+general knowledge,En çok konuşulan dil hangisidir?,"Türkçe
+
+En çok konuşulan dil:
+
+Türkiye Türkçesi
+
+En çok konuşulan dil:
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi
+
+Türkiye Türkçesi",İngilizce,incorrect
+general knowledge,Japonya'nın başkenti neresidir?,"Tokyo (Japonya'nın başkenti).
+
+Nerede?
+
+Japonya'nın başkenti (Osaka).
+
+Nasıl Gidilir?
+
+Otobüs, tren veya tekneyle ulaşım mümkün.
+
+En Popüler Şehirler:
+
+Tokyo (Japonya",Tokyo,correct
+general knowledge,Hangi ülke en fazla yüzölçümüne sahiptir?,"Türkiye, **en fazla **ülke yüzölçümüne sahiptir**.  
+
+Türkiye'nin coğrafi konumu ve coğrafi özellikleri şunlardır:  
+
+### **1. Türkiye'nin Coğrafi Konumu:**  
+- **Geniş bir alana",Rusya,incorrect
+general knowledge,Olimpiyatların sembolünde kaç halka vardır?,"Olimpiyatların sembolü **3 halka**dır.
+
+🎥 **Kaynak:** Çin Halk Cumhuriyeti'nin ulusal amblemi, Olimpiyat Oyunları'nın açılış töreni ve Olimpiyat meşalesi.
+
+🎥 **Özet:**
+
+1",5,incorrect
+general knowledge,Venedik hangi ülkeye aittir?,"Venedik (İtalya)
+
+Venedik, Akdeniz'in orta kesiminde bulunan bir liman şehridir.
+
+Coğrafi Konum:
+
+Venedik, İtalya'nın güneybatısında, İtalya'nın başkenti Roma'ya yakın bir konumdadır.",İtalya,correct
+health,İnsan vücudunda kaç kemik vardır?,"**
+Bu kemikler, eklemlerde, tendonlarda ve kemiklerde",206,incorrect
+health,Normal insan kalp atış hızı dakikada kaçtır?,"Normal insan kalp atışı dakikada **50-100 atış** arasında değişir.
+
+Not: Kalp hızı, kalbin elektriksel aktivitesini ölçer. Bu nedenle kalp hızı, nabız veya solunumla ölçülür.
+
+Özet:
+
+Kalp atışı dakikada **",60-100,correct
+health,İnsan vücudunda en büyük organ nedir?,"İnsan vücudunda en büyük organ, karaciğerdir. Karaciğer, vücudun temel enerji kaynağıdır ve tüm vücut için hayati öneme sahiptir.
+
+Neden karaciğer?
+
+Vücudun temel işlevlerini yerine getirir:
+
+Kan pıhtılaşmasını düzenler (kanama riski varsa",Deri,incorrect
+health,Diyabet hangi organın bozulması sonucu oluşur?,"Diyabetin böbrekler, göz, karaciğer, beyin, kalp, beyincik ve sinir sistemi gibi vücudun diğer kısımlarını etkileyen bir hastalık olduğunu söyleyebiliriz.
+
+Diyabet, böbreklerde biriken atık maddelerin (şeker) böbrekler tarafından süzülememesi ve kan",Pankreas,incorrect
+health,Kırmızı kan hücrelerinin diğer adı nedir?,"Kırmızı kan hücreleri, kırmızı kan hücreleridir. Kırmızı kan hücreleri, vücutta oksijen taşımak için kırmızı kan hücreleri üretir. Bu hücreler, kırmızı kan hücrelerine dönüşerek enfeksiyonlara karşı savaşır ve vücudun normal fonksiyonunu sağlar.
+
+Kırmızı kan hücreleri, vücudun",Eritrosit,incorrect
+literature,Cahit Sıtkı Tarancı hangi eseriyle ünlüdür?,"Cahit Sıtkı Tarancı, şiir ve romanlarıyla Türk edebiyatının en önemli isimlerinden biridir.
+
+Cahit Sıtkı Tarancı, edebiyatımızın ilk şairlerinden ve şairlerin öncüsüdür.
+
+Aşağıdaki soruda, ""Cahit Sıtkı",Otuz Beş Yaş,
+literature,Suç ve Ceza romanı kimin eseridir?,"Suç ve Ceza, yazarın kendi kişisel deneyimlerinden yola çıkarak yazdığı, felsefi ve psikolojik derinlik taşıyan, gerilim ve polisiye unsurlar barındıran bir eserdir.
+
+Roman, toplumun yozlaşmış yapısını ve adalet anlayışını sorgulayarak, toplumsal çelişkileri ve adaletsizliği çarpıcı",Dostoyevski,incorrect
+literature,William Shakespeare'in en ünlü trajedilerinden biri nedir?,"""Shakespeare'in en ünlü trajedilerinden biri""dir.
+
+Shakespeare'in En Ünlü trajedilerinden Bazıları:
+
+1. **Judgment Day** (1820):
+   - **M",Hamlet,incorrect
+literature,Küçük Prens kitabının yazarı kimdir?,"Küçük Prens kitabının yazarı, Fyodor Mihayloviç Dostoyevski'dir.
+
+### 📚 **Fyodor Mihayloviç Dostoyevski'nin Eserleri:**
+1. **Küçük Prens**",Antoine de Saint-Exupéry,incorrect
+literature,İnce Memed romanını kim yazmıştır?,"İnce Memed, Yaşar Kemal'in 1938'de kaleme aldığı romandır.
+
+Yaşar Kemal, İnce Memed'i yazarken ""İnce Memed"" takma adını kullanmıştır.
+
+Kısaca:
+
+Yaşar Kemal'in İnce",Yaşar Kemal,correct
+math,7 ile 8 çarpımı kaç eder?,"7 × 8 = 4,615
+
+Soru: 7 ile",56,incorrect
+math,Pi sayısının yaklaşık değeri nedir?,"Pi sayısı, 1'den (3, 6, 9, 12, 16) oluşan ve kendisinden önce gelen tüm sayıları içeren bir sayıdır.
+
+Pi sayısı, 1'den (3, 6, 9, 12, 16) oluşan",3.14,incorrect
+math,Bir üçgenin iç açılarının toplamı kaç derecedir?,"**
+
+**Kısa ve net bir cevap:**
+
+\[
+\text{Alan} = \",180,no answer
+math,2'nin küpü kaçtır?,"2
+2
+≈
+2
+≈
+2
+≈
+2
+≈
+2
+≈
+2
+≈
+2
+≈
+2
+�",8,incorrect
+math,1000 sayısının yarısı kaçtır?,"1000
+
+Açıklama:
+
+1000 sayısı, 
+1 + 1000 = 1
+
+100 sayısı ise, 1 + 100 = 1
+
+Bu soru, """,500,incorrect
+technology,İlk programlanabilir bilgisayarın adı nedir?,"İlk programlanabilir bilgisayarın adı, ""Hibernate"" adlı bir programcı tarafından geliştirilen, ""Hibernate"" adını taşıyan bir programdır.
+
+Hibernate'in amacı, bilgisayar işlemlerini hızlandırarak, karmaşık",ENIAC,incorrect
+technology,İnternetin temel protokolü nedir?,"İnternet Protokolü (TCP/IP), bir web sitesini ve bağlantıyı oluşturan temel unsurdur.
+
+Temel Özellikler:
+
+• Fiziksel Bağlantı: İnternet, fiber optik kablolar, fiber optik kablolar ve bakır kablolardan oluşur.
+
+• Veri Transferi",TCP/IP,correct
+technology,OpenAI tarafından geliştirilen ünlü dil modeli nedir?,"OpenAI tarafından geliştirilen ve ""dil modeli"" olarak adlandırılan bir dil modeli yoktur.
+
+OpenAI'ın dili, AI'nın doğal dil işleme (NLP) ve makine öğrenimiyle (ML) geliştirilen bir dil modelidir.",GPT,incorrect
