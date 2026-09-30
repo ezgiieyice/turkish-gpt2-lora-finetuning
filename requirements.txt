@@ -1,0 +1,13 @@
+torch
+transformers
+trl
+peft
+accelerate
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+openpyxl
+jupyter
